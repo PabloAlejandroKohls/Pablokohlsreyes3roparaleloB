@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\pablokohls ave\PabloKohls3B\PabloKohls3B\bin\Debug\PabloKohls3B.exe.config
+C:\Users\Usuario\source\repos\pablokohls ave\PabloKohls3B\PabloKohls3B\bin\Debug\PabloKohls3B.exe
+C:\Users\Usuario\source\repos\pablokohls ave\PabloKohls3B\PabloKohls3B\bin\Debug\PabloKohls3B.pdb
+C:\Users\Usuario\source\repos\pablokohls ave\PabloKohls3B\PabloKohls3B\obj\Debug\PabloKohls3B.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\pablokohls ave\PabloKohls3B\PabloKohls3B\obj\Debug\PabloKohls3B.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pablokohls ave\PabloKohls3B\PabloKohls3B\obj\Debug\PabloKohls3B.exe
+C:\Users\Usuario\source\repos\pablokohls ave\PabloKohls3B\PabloKohls3B\obj\Debug\PabloKohls3B.pdb
